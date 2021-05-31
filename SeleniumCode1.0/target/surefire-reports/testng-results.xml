@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-04T12:03:07 IST" name="Suite" finished-at="2021-05-04T12:04:56 IST" duration-ms="108971">
+    <groups>
+    </groups>
+    <test started-at="2021-05-04T12:03:07 IST" name="Test" finished-at="2021-05-04T12:04:56 IST" duration-ms="108971">
+      <class name="testcases.homepage2test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:03:53 IST" name="setUp" finished-at="2021-05-04T12:03:56 IST" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="elementsSizetest()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:03:56 IST" name="elementsSizetest" finished-at="2021-05-04T12:03:56 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsSizetest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:03:56 IST" name="closebrowser" finished-at="2021-05-04T12:03:57 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:03:57 IST" name="setUp" finished-at="2021-05-04T12:04:02 IST" duration-ms="5320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="secElementBadgetexttest()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:04:02 IST" name="secElementBadgetexttest" finished-at="2021-05-04T12:04:02 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secElementBadgetexttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:04:02 IST" name="closebrowser" finished-at="2021-05-04T12:04:03 IST" duration-ms="788" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:04:03 IST" name="setUp" finished-at="2021-05-04T12:04:07 IST" duration-ms="3899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="secElementtexttest()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:04:07 IST" name="secElementtexttest" finished-at="2021-05-04T12:04:07 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secElementtexttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage2test@27ff5d15]" started-at="2021-05-04T12:04:07 IST" name="closebrowser" finished-at="2021-05-04T12:04:08 IST" duration-ms="672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepage2test -->
+      <class name="testcases.homepagetest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:31 IST" name="setUp" finished-at="2021-05-04T12:03:35 IST" duration-ms="4235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homepagetitletest()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:35 IST" name="homepagetitletest" finished-at="2021-05-04T12:03:35 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagetitletest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:35 IST" name="closebrowser" finished-at="2021-05-04T12:03:36 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:36 IST" name="setUp" finished-at="2021-05-04T12:03:40 IST" duration-ms="4117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="hplogintest()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:40 IST" name="hplogintest" finished-at="2021-05-04T12:03:40 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hplogintest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:40 IST" name="closebrowser" finished-at="2021-05-04T12:03:41 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:41 IST" name="setUp" finished-at="2021-05-04T12:03:44 IST" duration-ms="3385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="hppasswordtest()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:44 IST" name="hppasswordtest" finished-at="2021-05-04T12:03:44 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hppasswordtest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:44 IST" name="closebrowser" finished-at="2021-05-04T12:03:45 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:45 IST" name="setUp" finished-at="2021-05-04T12:03:48 IST" duration-ms="3252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="hpsigninbtntest()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:48 IST" name="hpsigninbtntest" finished-at="2021-05-04T12:03:48 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpsigninbtntest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:48 IST" name="closebrowser" finished-at="2021-05-04T12:03:49 IST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:49 IST" name="setUp" finished-at="2021-05-04T12:03:52 IST" duration-ms="3511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="hpusrnametest()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:52 IST" name="hpusrnametest" finished-at="2021-05-04T12:03:52 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpusrnametest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepagetest@1613674b]" started-at="2021-05-04T12:03:52 IST" name="closebrowser" finished-at="2021-05-04T12:03:53 IST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepagetest -->
+      <class name="testcases.homepage3test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:20 IST" name="setUp" finished-at="2021-05-04T12:03:24 IST" duration-ms="4724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="defaultTexttest()[pri:1, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:24 IST" name="defaultTexttest" finished-at="2021-05-04T12:03:24 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defaultTexttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:24 IST" name="closebrowser" finished-at="2021-05-04T12:03:25 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:25 IST" name="setUp" finished-at="2021-05-04T12:03:30 IST" duration-ms="4465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Changeopttest()[pri:2, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:30 IST" name="Changeopttest" finished-at="2021-05-04T12:03:30 IST" duration-ms="306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Changeopttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage3test@5ace1ed4]" started-at="2021-05-04T12:03:30 IST" name="closebrowser" finished-at="2021-05-04T12:03:31 IST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepage3test -->
+      <class name="testcases.homepage6test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage6test@6631f5ca]" started-at="2021-05-04T12:03:07 IST" name="setUp" finished-at="2021-05-04T12:03:19 IST" duration-ms="11958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkElementText()[pri:1, instance:testcases.homepage6test@6631f5ca]" started-at="2021-05-04T12:03:19 IST" name="checkElementText" finished-at="2021-05-04T12:03:19 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkElementText -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage6test@6631f5ca]" started-at="2021-05-04T12:03:19 IST" name="closebrowser" finished-at="2021-05-04T12:03:20 IST" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepage6test -->
+      <class name="testcases.homepage5test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:08 IST" name="setUp" finished-at="2021-05-04T12:04:13 IST" duration-ms="5542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickbtn1test()[pri:1, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:13 IST" name="clickbtn1test" finished-at="2021-05-04T12:04:18 IST" duration-ms="4531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickbtn1test -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:18 IST" name="closebrowser" finished-at="2021-05-04T12:04:19 IST" duration-ms="754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:19 IST" name="setUp" finished-at="2021-05-04T12:04:23 IST" duration-ms="4551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isbtndistest()[pri:2, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:23 IST" name="isbtndistest" finished-at="2021-05-04T12:04:31 IST" duration-ms="8187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isbtndistest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:31 IST" name="closebrowser" finished-at="2021-05-04T12:04:32 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:32 IST" name="setUp" finished-at="2021-05-04T12:04:36 IST" duration-ms="4399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isdisplayedtexttest()[pri:3, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:36 IST" name="isdisplayedtexttest" finished-at="2021-05-04T12:04:44 IST" duration-ms="7224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isdisplayedtexttest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage5test@4e096385]" started-at="2021-05-04T12:04:44 IST" name="closebrowser" finished-at="2021-05-04T12:04:44 IST" duration-ms="695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepage5test -->
+      <class name="testcases.homepage4test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:44 IST" name="setUp" finished-at="2021-05-04T12:04:50 IST" duration-ms="6037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isEnabletest()[pri:1, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:50 IST" name="isEnabletest" finished-at="2021-05-04T12:04:50 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isEnabletest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:50 IST" name="closebrowser" finished-at="2021-05-04T12:04:51 IST" duration-ms="843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:51 IST" name="setUp" finished-at="2021-05-04T12:04:55 IST" duration-ms="3292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isDisabletest()[pri:2, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:55 IST" name="isDisabletest" finished-at="2021-05-04T12:04:55 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isDisabletest -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:testcases.homepage4test@649bec2e]" started-at="2021-05-04T12:04:55 IST" name="closebrowser" finished-at="2021-05-04T12:04:56 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- testcases.homepage4test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
