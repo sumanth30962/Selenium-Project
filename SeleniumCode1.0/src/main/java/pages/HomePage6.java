@@ -19,8 +19,4 @@ public class HomePage6 extends TestBase {
 		return driver.findElement(By.xpath(path));
 	}
 
-	public String wantedElementText(int r, int c) {
-		WebElement we = wantedElement(r, c);
-		return we.getText();
-	}
 }

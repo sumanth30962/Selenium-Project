@@ -29,8 +29,5 @@ public class HomePage2 extends TestBase {
 		return secElement.getText().replace(secElementBadgeText(), "").trim();
 	}
 
-	public String secElementBadgeText() {
-		return secElementBadge.getText();
-	}
 
 }
